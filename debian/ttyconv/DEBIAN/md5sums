@@ -1,0 +1,12 @@
+0bf31a823055374df492b6ef0604d4dd  usr/share/python-support/ttyconv/libttyconv/ttyconv.py
+bf17d92074da2a5c1f720d4b54b65ada  usr/share/python-support/ttyconv/libttyconv/encodings.py
+0ab89e244e2031f14cc4b72856f78481  usr/share/python-support/ttyconv/libttyconv/__init__.py
+1a80e98034587263c0e048075f1fe6bb  usr/share/python-support/ttyconv/ttyconv-1.0.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/python-support/ttyconv/ttyconv-1.0.egg-info/dependency_links.txt
+f2caba551b9aeb0b6c16cb28c6409369  usr/share/python-support/ttyconv/ttyconv-1.0.egg-info/entry_points.txt
+5eb621b7907844b4cc40e3e6bb259dfa  usr/share/python-support/ttyconv/ttyconv-1.0.egg-info/top_level.txt
+b60db3e9bc2cc0b63a669d75de96e6a6  usr/share/python-support/ttyconv/ttyconv-1.0.egg-info/PKG-INFO
+ba94132d321e1f0a49e48c52e09efc02  usr/share/doc/ttyconv/copyright
+cd20486df03f847bca191381530c5073  usr/share/doc/ttyconv/changelog.gz
+d24024dcc24ce2d80558678815bd7505  usr/share/man/man1/ttyconv.1.gz
+b10957d62e51af6ff69ffa643e581f6d  usr/bin/ttyconv

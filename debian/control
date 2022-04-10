@@ -1,0 +1,19 @@
+Source: ttyconv
+Section: utils
+Priority: optional
+Maintainer: Alexios Chouchoulas <alexios@bedroomlan.org>
+Build-Depends: debhelper (>> 3.0.0), python, python-setuptools, python-support (>= 0.6), cdbs
+Standards-Version: 3.8.0
+Homepage: http://www.bedroomlan.org/projects/ttyconv
+
+Package: ttyconv
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}
+Description: Convert a TTY from one encoding to another
+ ttyconv can translate a TTY connection from one character encoding
+ to another.
+ .
+ This is useful when, for instance, you have a UTF-8 based desktop
+ with national language and keyboard support and you still want to
+ connect to systems that are unaware of this, or use a different
+ or unusual encoding.

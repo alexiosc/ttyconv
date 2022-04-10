@@ -1,0 +1,23 @@
+Metadata-Version: 1.0
+Name: ttyconv
+Version: 1.0
+Summary: Convert a TTY from one encoding to another
+Home-page: http://www.bedroomlan.org/projects/ttyconv
+Author: Alexios Chouchoulas
+Author-email: alexios@bedroomlan.org
+License: GNU GPL v2
+Description: Translates a TTY connection from one character encoding to
+        another. This is useful when, for instance, you have a UTF-8 based
+        desktop with national language and keyboard support and you still want
+        to connect to systems that are unaware of this, or use a different or
+        unusual encoding.
+Platform: any
+Classifier: Development Status :: 5 - Mature
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Topic :: Utilities
